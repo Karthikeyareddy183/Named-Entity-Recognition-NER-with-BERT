@@ -14,9 +14,13 @@ This project demonstrates how to fine-tune a BERT model for Named Entity Recogni
 
 **Technologies Used**
   -Python: Programming language.
+  
   -Flask: Web framework for the API.
+  
   -Transformers: Hugging Face library for fine-tuning BERT.
+  
   -Docker: Containerization for deployment.
+  
   -HTML/CSS: Frontend for the web interface.
 
 
