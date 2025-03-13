@@ -1,19 +1,19 @@
 # Named-Entity-Recognition-NER-with-BERT
 This project demonstrates how to fine-tune a BERT model for Named Entity Recognition (NER) using the CoNLL-2003 dataset and deploy it as a Flask API with a web interface. The application is containerized using Docker for easy deployment.
 
-Features
-  .Fine-tuned BERT model for NER.
-  .Flask API with a /predict endpoint for JSON input.
-  .Web interface for interactive NER predictions.
-  .Basic authentication for API access.
-  .Dockerized for easy deployment.
+**Features**
+  -Fine-tuned BERT model for NER.
+  -Flask API with a /predict endpoint for JSON input.
+  -Web interface for interactive NER predictions.
+  -Basic authentication for API access.
+  -Dockerized for easy deployment.
 
-Technologies Used
-  .Python: Programming language.
-  .Flask: Web framework for the API.
-  .Transformers: Hugging Face library for fine-tuning BERT.
-  .Docker: Containerization for deployment.
-  .HTML/CSS: Frontend for the web interface.
+**Technologies Used**
+  -Python: Programming language.
+  -Flask: Web framework for the API.
+  -Transformers: Hugging Face library for fine-tuning BERT.
+  -Docker: Containerization for deployment.
+  -HTML/CSS: Frontend for the web interface.
 
 
 ## 🛠 Installation  
