@@ -3,9 +3,13 @@ This project demonstrates how to fine-tune a BERT model for Named Entity Recogni
 
 **Features**
   -Fine-tuned BERT model for NER.
+  
   -Flask API with a /predict endpoint for JSON input.
+  
   -Web interface for interactive NER predictions.
+  
   -Basic authentication for API access.
+  
   -Dockerized for easy deployment.
 
 **Technologies Used**
