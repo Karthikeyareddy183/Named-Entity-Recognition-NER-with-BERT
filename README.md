@@ -2,6 +2,7 @@
 This project demonstrates how to fine-tune a BERT model for Named Entity Recognition (NER) using the CoNLL-2003 dataset and deploy it as a Flask API with a web interface. The application is containerized using Docker for easy deployment.
 
 **Features**
+  
   -Fine-tuned BERT model for NER.
   
   -Flask API with a /predict endpoint for JSON input.
@@ -13,6 +14,7 @@ This project demonstrates how to fine-tune a BERT model for Named Entity Recogni
   -Dockerized for easy deployment.
 
 **Technologies Used**
+ 
   -Python: Programming language.
   
   -Flask: Web framework for the API.
